@@ -116,4 +116,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Feel free to reach out via [LinkedIn](https://linkedin.com) or open an issue for feedback or suggestions.
 ```
-
