@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "TechFlow - Accelerate Your Digital Transformation",
   description:
     "Empower your business with cutting-edge technology solutions designed to drive growth, efficiency, and innovation.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
